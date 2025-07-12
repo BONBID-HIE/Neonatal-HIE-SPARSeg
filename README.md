@@ -4,5 +4,6 @@ A pytorch implementation for the paper: [Spatial Prior-Guided Boundary and Regio
 
 Amog Rao*, Ananya Shukla, Jia Bhargava, Rina Bao, Yangming Ou (* Correspondence)
 
+Accepted at MICCAI 2025!🇰🇷
 
-Note: We shall update the repo with scripts and the pre-trained weights upon paper acceptance, thank you!
+Note: We shall update the repo with scripts and the pre-trained weights upon publication of the camera ready version, thank you!
