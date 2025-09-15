@@ -4,14 +4,14 @@
 
 <h3>MICCAI 2025 🇰🇷</h3>
 
-[Amog Rao](https://www.linkedin.com/in/amog-rao/)*<sup>1</sup>, [Ananya Shukla](https://www.linkedin.com/in/-ananya-shukla/)*<sup>1</sup>, [Jia Bhargava](https://www.linkedin.com/in/jia-bhargava/)<sup>1</sup>, [Yangming Ou](https://research.childrenshospital.org/researchers/yangming-ou)<sup>2</sup>, [Rina Bao](https://baorina.github.io)**<sup>2</sup>
+[Amog Rao](https://www.linkedin.com/in/amog-rao/)<sup>1,*</sup>, [Ananya Shukla](https://www.linkedin.com/in/-ananya-shukla/)<sup>1,*</sup>, [Jia Bhargava](https://www.linkedin.com/in/jia-bhargava/)<sup>1</sup>, [Yangming Ou](https://research.childrenshospital.org/researchers/yangming-ou)<sup>2</sup>, [Rina Bao](https://baorina.github.io)<sup>2,†</sup>
 
 <sup>1</sup>Plaksha University, Mohali, India <br>
 <sup>2</sup>Boston Children's Hospital, Harvard Medical School, Boston, USA <br>
 
-*Equal Contribution, **Corresponding Author
+*Equal Contribution, †Corresponding Author
 
-[Paper](https://papers.miccai.org/miccai-2025/paper/4455_paper.pdf) | [Dataset](https://zenodo.org/records/13690270)
+[Paper](https://papers.miccai.org/miccai-2025/0850-Paper4455.html) | [Dataset](https://zenodo.org/records/13690270)
 
 </div>
 
@@ -29,17 +29,15 @@ Our method surpasses state-of-the-art 2D approaches and achieves competitive per
 
 ## Citation
 
-If you use this work in your research, please cite:
-
 ```bibtex
 @InProceedings{RaoAmo_Spatial_MICCAI2025,
-  author = {Rao, Amog and Shukla, Ananya and Bhargava, Jia and Ou, Yangming and Bao, Rina},
-  title = {{Spatial Prior-Guided Boundary and Region-Aware 2D Lesion Segmentation in Neonatal Hypoxic Ischemic Encephalopathy}},
-  booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
-  year = {2025},
-  publisher = {Springer Nature Switzerland},
-  volume = {LNCS 15963},
-  month = {September},
+author = { Rao, Amog and Shukla, Ananya and Bhargava, Jia and Ou, Yangming and Bao, Rina},
+title = { { Spatial Prior-Guided Boundary and Region-Aware 2D Lesion Segmentation in Neonatal Hypoxic Ischemic Encephalopathy } },
+booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
+year = {2025},
+publisher = {Springer Nature Switzerland},
+volume = {LNCS 15963},
+month = {September},
 }
 ```
 
