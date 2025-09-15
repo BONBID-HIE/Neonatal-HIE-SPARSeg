@@ -4,19 +4,19 @@
 
 <h3>MICCAI 2025 🇰🇷</h3>
 
-[Amog Rao](https://www.linkedin.com/in/amog-rao/)<sup>1,*</sup>, [Ananya Shukla](https://www.linkedin.com/in/-ananya-shukla/)<sup>1,*</sup>, [Jia Bhargava](https://www.linkedin.com/in/jia-bhargava/)<sup>1</sup>, [Yangming Ou](https://research.childrenshospital.org/researchers/yangming-ou)<sup>2</sup>, [Rina Bao](https://baorina.github.io)<sup>2,†</sup>
+[Amog Rao](https://www.linkedin.com/in/amog-rao/)<sup>1,\*</sup>, [Ananya Shukla](https://www.linkedin.com/in/-ananya-shukla/)<sup>1,\*</sup>, [Jia Bhargava](https://www.linkedin.com/in/jia-bhargava/)<sup>1</sup>, [Yangming Ou](https://research.childrenshospital.org/researchers/yangming-ou)<sup>2</sup>, [Rina Bao](https://baorina.github.io)<sup>2,**</sup>
 
 <sup>1</sup>Plaksha University, Mohali, India <br>
 <sup>2</sup>Boston Children's Hospital, Harvard Medical School, Boston, USA <br>
 
-*Equal Contribution, †Corresponding Author
+*Equal Contribution, **Corresponding Author
 
 [Paper](https://papers.miccai.org/miccai-2025/0850-Paper4455.html) | [Dataset](https://zenodo.org/records/13690270)
 
 </div>
 
 <p align="center">
-  <img src="assets/architecture.svg" width="90%">
+  <img src="assets/architecture.png" width="90%">
 </p>
 
 ## Abstract
