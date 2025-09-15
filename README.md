@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/architecture.png" width="90%">
+  <img src="assets/architecture.svg" width="90%">
 </p>
 
 ## Abstract
