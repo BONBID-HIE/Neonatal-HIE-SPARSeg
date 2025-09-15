@@ -4,14 +4,14 @@
 
 <h3>MICCAI 2025 🇰🇷</h3>
 
-[Amog Rao]([https://github.com/amograo](https://www.linkedin.com/in/amog-rao/))*<sup>1</sup>, [Ananya Shukla]([https://github.com/ananyashukla](https://www.linkedin.com/in/-ananya-shukla/))*<sup>1</sup>, [Jia Bhargava](https://github.com/jiabhargava)<sup>1</sup>, [Yangming Ou]([https://www.childrenshospital.org/directory/yangming-ou](https://research.childrenshospital.org/researchers/yangming-ou))<sup>2</sup>, [Rina Bao]([https://www.childrenshospital.org/directory/rina-bao](https://baorina.github.io))**<sup>1,2</sup>
+[Amog Rao](https://www.linkedin.com/in/amog-rao/)*<sup>1</sup>, [Ananya Shukla](https://www.linkedin.com/in/-ananya-shukla/)*<sup>1</sup>, [Jia Bhargava](https://www.linkedin.com/in/jia-bhargava/)<sup>1</sup>, [Yangming Ou](https://research.childrenshospital.org/researchers/yangming-ou)<sup>2</sup>, [Rina Bao](https://baorina.github.io)**<sup>2</sup>
 
 <sup>1</sup>Plaksha University, Mohali, India <br>
 <sup>2</sup>Boston Children's Hospital, Harvard Medical School, Boston, USA <br>
 
-* Equal Contribution, ** Corresponding Author
+*Equal Contribution, **Corresponding Author
 
-[Paper](https://papers.miccai.org/miccai-2025/paper/4455_paper.pdf) | [Dataset]([https://zenodo.org/records/10602767](https://zenodo.org/records/13690270))
+[Paper](https://papers.miccai.org/miccai-2025/paper/4455_paper.pdf) | [Dataset](https://zenodo.org/records/13690270)
 
 </div>
 
